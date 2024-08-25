@@ -1,2 +1,2 @@
-This is a main brach of the repositoy named git-workflow-merge-conflicts
+This is a main brach of the repositoy named git-workflow-merge-conflicts and the fix brach merge conflict has been resolved.
 
